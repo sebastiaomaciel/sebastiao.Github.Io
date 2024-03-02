@@ -11,7 +11,10 @@
   html {
     scroll-behavior: smooth;
   }
-  
+  ul:not(.menu-list) {
+    padding: 0;
+  }
+
   /* SECTIONS */
   section {
     max-width: 900px;
