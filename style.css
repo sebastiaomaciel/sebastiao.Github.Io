@@ -69,3 +69,22 @@
     color: red;
     text-decoration: none;
   }
+  .social-links {
+    list-style: none;
+  }
+  .social-links li {
+    display: inline-block;
+    background-color: red;
+    margin-right: 10px;
+  }
+  .social-links li a {
+    padding: 7px;
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  }
+
+  }
